@@ -1,16 +1,34 @@
-### Hi there 👋
+### Welcome to hodoo's hub 👋
 
-<!--
-**hodoodang/hodoodang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm hodoo 😀, a Junior Developer 🚁 from South Korea.
 
-Here are some ideas to get you started:
+**Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Wisenut.
+- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
+- 🌱 I’m currently learning Spring Boot and Vue.js.
+- 📫 Please email via **xogh4096@gmail.com** to reach me.
+
+
+**Languages and Tools 💻**
+
+<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt=python height="20"/></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt=tensorflow height="20"/></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt=jupyter-notebook height="20"/></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt=linux height="20"/></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt=cpp height="20"/></code>
+
+[![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&link=https://github.com/hodoodang)](https://github.com/hodoodang)
+[![Java](https://img.shields.io/badge/Java-FCA121?style=flat&logo=java&link=https://github.com/hodoodang)](https://github.com/hodoodang)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&link=https://github.com/hodoodang)](https://github.com/hodoodang)
+
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&link=https://github.com/hodoodang)](https://github.com/hodoodang)
+[![Vue](https://img.shields.io/badge/Vue.js-FFFFFF?style=flat&logo=vue.js&link=https://github.com/hodoodang)](https://github.com/hodoodang)
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hodoodang)](https://github.com/hodoodang) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hodoodang)](https://gitlab.com/hodoodang) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hodoodang)](https://github.com/hodoodang)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hodoodang&show_icons=true&hide_border=true&theme=graywhite" alt="Taeho's github stats">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hodoodang&theme=flag-india" alt="Top Languages" />
+
