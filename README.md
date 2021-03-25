@@ -26,7 +26,7 @@ Hi, I'm hodoo 😀, a Junior Developer 🚁 from South Korea.
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&link=https://github.com/hodoodang)](https://github.com/hodoodang)
 [![Vue](https://img.shields.io/badge/Vue.js-FFFFFF?style=flat&logo=vue.js&link=https://github.com/hodoodang)](https://github.com/hodoodang)
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hodoodang)](https://github.com/hodoodang) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hodoodang)](https://gitlab.com/hodoodang) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hodoodang)](https://github.com/hodoodang)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hodoodang)](https://github.com/hodoodang) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hodoodang)](https://gitlab.com/thsagong) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hodoodang)](https://github.com/hodoodang)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hodoodang&show_icons=true&hide_border=true&theme=graywhite" alt="Taeho's github stats">
 
