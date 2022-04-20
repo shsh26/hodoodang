@@ -7,7 +7,7 @@ Hi, I'm hodoo 😀, a Junior Developer 🚁 from South Korea.
 - 🔭 I’m currently working on Wisenut.
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 - 🌱 I’m currently learning Spring Boot and Vue.js.
-- 📫 Please email via **xogh4096@gmail.com** to reach me.
+- 📫 Please email via **sagong126@gmail.com** to reach me.
 
 
 **Languages and Tools 💻**
